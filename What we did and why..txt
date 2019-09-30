@@ -1,0 +1,23 @@
+For the projet, we decided to do a maze game with some gui interaction. 
+We wanted to utilise a range of tools within the game, to try and give off an immersive game within VR.
+At first, it was about learning and getting used to unity. With learning any new software, certain parts felt very teadious but eventually we felt like we had a grasp on how to use it.
+But even after feeling like we had a grasp, we made rookie mistakes.
+For the scripting it became easier to understand and utilise within the game through testing and trying new things.
+Each scene has a different purpose.
+As it's meant to be a game, the three most important aspects to any game, we feel, are main menu, the game and a way to see and save your score.
+
+We added a start menu as with any game there is a start menu. It's a simple menu but it gets the work done. The player will use the headset to control the pointer and and choose to quit or change levels.
+The game has a number of coins with various objects and moving statues. Once the player collects all the coins, the game is finsihed and player is transported to save game screen.
+The player can then see their score and time taken to complete game and save the data to a file. And then can quit game.
+
+Problems encountered:
+Our group were both erasmus students and once we left Germany we didnt always have access to a vr set.
+But we figured it out and feel like we definatly could have done more and implmented more, to give a more realisted and immersive VR game.
+The headset we were using, was harder to save files, it was possible but hard to find the file.
+Aswell as being able to enter text, so saving names we weren't able ot find a way to do that.
+
+For our project we feel like we deserve between a 1 and 2. Why? We feel like our game shows how far we have come because of the range of things we have implmented within the game.
+To use a GUI and pointer had to be set up. Aswell as being able to access the game data from the save data menu.
+We have worked hard and have learnt how to use unity. As we have a basic knowledge on using unity, we can expand on this so we can go on to make better and more immersive games.
+
+This course has been very usefull in helping us understand Unity and helped us improve our c-sharp scripting which will be very helpful for in understanding other languages aswell.
