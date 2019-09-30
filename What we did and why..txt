@@ -21,3 +21,5 @@ To use a GUI and pointer had to be set up. Aswell as being able to access the ga
 We have worked hard and have learnt how to use unity. As we have a basic knowledge on using unity, we can expand on this so we can go on to make better and more immersive games.
 
 This course has been very usefull in helping us understand Unity and helped us improve our c-sharp scripting which will be very helpful for in understanding other languages aswell.
+
+Git-Hub link is: https://github.com/soapy98/SohailsGame.git
